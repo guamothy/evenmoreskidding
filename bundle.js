@@ -1,19 +1,3 @@
-// ==UserScript==
-// @name        gimkit cheats (MOD MENU)
-// @description A userscript gives you a mod menu to cheat in gimkit!
-// @namespace   https://www.github.com/GimkitCheat
-// @match       https://www.gimkit.com/join*
-// @run-at      document-start
-// @iconURL     https://www.gimkit.com/favicon.png
-// @author      Rylan Rude Staff:Colton,Enick
-// @version     0.3.7
-// @license     ISC
-// @grant       GM_getValue
-// @grant       GM_setValue
-// @grant       GM_deleteValue
-// @downloadURL https://update.greasyfork.org/scripts/526022/gimkit%20cheats%20%28MOD%20MENU%29.user.js
-// @updateURL https://update.greasyfork.org/scripts/526022/gimkit%20cheats%20%28MOD%20MENU%29.meta.js
-// ==/UserScript==
 (function () {
   'use strict';
 
